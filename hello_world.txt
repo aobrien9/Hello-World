@@ -1,3 +1,7 @@
 I’m learning git
 
 I feel like I am learning German!
+
+
+
+keep typing here, learning to use GIT
